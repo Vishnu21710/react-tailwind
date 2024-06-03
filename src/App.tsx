@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <div>
+    <div className='text-cyan-200'>
       React-Tailwind
     </div>
   )
