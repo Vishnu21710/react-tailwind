@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className='text-cyan-200'>
-      React-Tailwind
+      React-Tailwind - With Axios and React router dom
     </div>
   )
 }
